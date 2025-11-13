@@ -1,4 +1,4 @@
 -   Hi, I’m @AgustinBogado an a frontend developer.
--   I’m interested in python
--   I’m currently learning: React - node.js
+-   I’m interested in react-native
+-   I’m currently learning: Expo - React-native
 -   Contact = email: "agusbog.4@gmail.com" - linkedin: "https://www.linkedin.com/in/agustin-bogado-61b9b4247/"
